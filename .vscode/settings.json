@@ -1,0 +1,32 @@
+{
+
+
+"editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+"editor.fontLigatures": true,
+"editor.fontVariations": true,
+
+  // Set the core theme
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+
+  // --- THE GRUVBOX MATERIAL ENGINE PRESETS ---
+  // "soft" drops the contrast entirely to simulate organic paper
+  "gruvboxMaterial.darkContrast": "soft", 
+  
+  // "mix" blends warm tones with a hint of neutral slate to prevent color muddying
+  "gruvboxMaterial.darkPalette": "mix", 
+  
+  // Mutes aggressive syntax highlighting colors so they don't glow
+  "gruvboxMaterial.highContrastSyntax": false, 
+
+  // --- COMPLEMENTARY READABILITY SETTINGS ---
+  // Giving lines breathing room prevents vertical tracking fatigue
+  "editor.lineHeight": 1.6,
+  "editor.letterSpacing": 0.5,
+  "editor.fontSize": 14,
+  
+  // Hides harsh border lines between the sidebar, editor, and terminal
+  "workbench.borderCustomizations": {
+    "color": "#00000000"
+  }
+}
+
