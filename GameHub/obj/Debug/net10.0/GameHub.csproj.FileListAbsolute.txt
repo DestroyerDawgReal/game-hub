@@ -26,3 +26,4 @@ C:\Users\Public\coding projects\C#\GameHub\GameHub\obj\Debug\net10.0\refint\Game
 C:\Users\Public\coding projects\C#\GameHub\GameHub\obj\Debug\net10.0\GameHub.pdb
 C:\Users\Public\coding projects\C#\GameHub\GameHub\obj\Debug\net10.0\GameHub.genruntimeconfig.cache
 C:\Users\Public\coding projects\C#\GameHub\GameHub\obj\Debug\net10.0\ref\GameHub.dll
+C:\Users\Public\coding projects\C#\GameHub\GameHub\obj\Debug\net10.0\GameHub.sourcelink.json
